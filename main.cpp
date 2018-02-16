@@ -11,9 +11,9 @@ string first;
 string last;
 int lucky;
   //get user input
-cout<<"what is your first name?"<<endl;
+cout<<"What is your first name?"<<endl;
 cin>>first;
-cout<<"what is your last name?"<<endl;
+cout<<"What is your last name?"<<endl;
 cin>>last;
   //tell fortune
 cout<<"Welcome, " << first[0] << "." << last[0] << "." << ", here is your fortune..." <<endl;
